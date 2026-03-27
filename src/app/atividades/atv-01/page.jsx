@@ -1,3 +1,5 @@
+import styles from './page.module.css';
+
 function Atividade01 () {
     return(
         <div>
